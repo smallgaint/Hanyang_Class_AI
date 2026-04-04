@@ -1,1 +1,2 @@
 resnet101-5d3b4d8f.pth filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
