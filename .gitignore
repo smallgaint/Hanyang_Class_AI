@@ -1,1 +1,34 @@
 VOC/
+
+# VS Code / Electron cache
+Cache/
+CachedConfigurations/
+CachedData/
+CachedExtensionVSIXs/
+CachedProfilesData/
+Code Cache/
+Crashpad/
+DawnGraphiteCache/
+DawnWebGPUCache/
+Dictionaries/
+GPUCache/
+Local State
+Local Storage/
+Network/
+Preferences
+Service Worker/
+Session Storage/
+Shared Dictionary/
+SharedStorage
+SharedStorage-wal
+User/
+WebStorage/
+code.lock
+languagepacks.json
+logs/
+machineid
+DIPS
+DIPS-wal
+
+# Claude Code
+.claude/
