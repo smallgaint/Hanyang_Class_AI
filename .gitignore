@@ -32,3 +32,21 @@ DIPS-wal
 
 # Claude Code
 .claude/
+
+# Ignore large or generated training/inference outputs and model binaries
+assignment3/output_images/
+assignment3/output_images2/
+assignment3/sd-concept-output/
+assignment3/*.pt
+assignment3/*.pth
+assignment3/*.safetensors
+assignment3/*.bin
+assignment3/__pycache__/
+assignment3/*.ckpt
+assignment3/*.h5
+
+# Notebook checkpoints and editor backups
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
